@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value indicating whether a[variable](vbe-glossary.md) has been initialized.
+Returns a  **Boolean** value indicating whether a [variable](vbe-glossary.md) has been initialized.
  **Syntax**
  **IsEmpty(**_expression_**)**
 The required  _expression_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md) containing a[numeric](vbe-glossary.md) or[string expression](vbe-glossary.md). However, because  **IsEmpty** is used to determine if individual variables are initialized, the _expression_ argument is most often a single variable name.
